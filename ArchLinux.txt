@@ -7,6 +7,6 @@ Arch Linux의 파일 관리자(Nautilus, Dolphin, Thunar 등)를 열면
 외장 드라이브처럼 폰 내부 저장소가 나타납니다.
 
 hangul install
-sudo pacman -S fcitx5 fcitx5-hangul fcitx5-im fcitx5-configtool
+sudo pacman -S fcitx5 fcitx5-hangul (fcitx5-im) fcitx5-configtool
 
 
