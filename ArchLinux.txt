@@ -9,4 +9,6 @@ Arch Linux의 파일 관리자(Nautilus, Dolphin, Thunar 등)를 열면
 hangul install
 sudo pacman -S fcitx5 fcitx5-hangul (fcitx5-im) fcitx5-configtool
 
+yay -S google-chrome
+
 
