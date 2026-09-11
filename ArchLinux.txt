@@ -1,6 +1,6 @@
 USB 케이블 연결 (MTP 방식)
 유선으로 안정하게 대용량 파일을 전송할 때 유용합니다.
-설치 (Arch Linux):  bashsudo pacman -S gvfs-mtp mtpfs
+설치 (Arch Linux):  sudo pacman -S gvfs-mtp mtpfs
 사용법:USB 케이블로 갤럭시 폰과 PC를 연결합니다.
 폰 화면에서 '휴대폰 데이터 접근 허용' 또는 '파일 전송(MTP)' 모드를 선택합니다.
 Arch Linux의 파일 관리자(Nautilus, Dolphin, Thunar 등)를 열면
